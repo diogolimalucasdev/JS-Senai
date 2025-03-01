@@ -29,3 +29,8 @@ console.log(10 < 5)
 
 // menor ou igual
 console.log(10 <= 5)
+
+
+
+
+
